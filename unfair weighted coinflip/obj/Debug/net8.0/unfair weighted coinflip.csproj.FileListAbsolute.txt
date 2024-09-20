@@ -1,0 +1,14 @@
+C:\repos\fun\unfair weighted coinflip\unfair weighted coinflip\bin\Debug\net8.0\unfair weighted coinflip.exe
+C:\repos\fun\unfair weighted coinflip\unfair weighted coinflip\bin\Debug\net8.0\unfair weighted coinflip.deps.json
+C:\repos\fun\unfair weighted coinflip\unfair weighted coinflip\bin\Debug\net8.0\unfair weighted coinflip.runtimeconfig.json
+C:\repos\fun\unfair weighted coinflip\unfair weighted coinflip\bin\Debug\net8.0\unfair weighted coinflip.dll
+C:\repos\fun\unfair weighted coinflip\unfair weighted coinflip\bin\Debug\net8.0\unfair weighted coinflip.pdb
+C:\repos\fun\unfair weighted coinflip\unfair weighted coinflip\obj\Debug\net8.0\unfair weighted coinflip.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\fun\unfair weighted coinflip\unfair weighted coinflip\obj\Debug\net8.0\unfair weighted coinflip.AssemblyInfoInputs.cache
+C:\repos\fun\unfair weighted coinflip\unfair weighted coinflip\obj\Debug\net8.0\unfair weighted coinflip.AssemblyInfo.cs
+C:\repos\fun\unfair weighted coinflip\unfair weighted coinflip\obj\Debug\net8.0\unfair weighted coinflip.csproj.CoreCompileInputs.cache
+C:\repos\fun\unfair weighted coinflip\unfair weighted coinflip\obj\Debug\net8.0\unfair weighted coinflip.dll
+C:\repos\fun\unfair weighted coinflip\unfair weighted coinflip\obj\Debug\net8.0\refint\unfair weighted coinflip.dll
+C:\repos\fun\unfair weighted coinflip\unfair weighted coinflip\obj\Debug\net8.0\unfair weighted coinflip.pdb
+C:\repos\fun\unfair weighted coinflip\unfair weighted coinflip\obj\Debug\net8.0\unfair weighted coinflip.genruntimeconfig.cache
+C:\repos\fun\unfair weighted coinflip\unfair weighted coinflip\obj\Debug\net8.0\ref\unfair weighted coinflip.dll

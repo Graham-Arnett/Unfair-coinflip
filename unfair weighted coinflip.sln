@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "unfair weighted coinflip", "unfair weighted coinflip\unfair weighted coinflip.csproj", "{1C7FF0F1-676D-4A7A-896B-8041437E46EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C7FF0F1-676D-4A7A-896B-8041437E46EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C7FF0F1-676D-4A7A-896B-8041437E46EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C7FF0F1-676D-4A7A-896B-8041437E46EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C7FF0F1-676D-4A7A-896B-8041437E46EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D280DA4-3CCA-4CA8-8269-45D446C457C6}
+	EndGlobalSection
+EndGlobal
